@@ -1,0 +1,351 @@
+Coffee_Name,Acidity_Level,Flavor_Notes,Body,Origin,Roast_Type,Price
+Rwandan Peaberry,Bright,Caramel and vanilla,Light,Colombia,Medium Roast,$14.82
+Rwandan Peaberry,Bright,Nutty and chocolate,Full,Colombia,Medium Roast,$18.46
+Costa Rican Tarrazu,Bright,Nutty and chocolate,Full,Sumatra,Dark Roast,$14.40
+Jamaican Blue Mountain,Subtle,Caramel and vanilla,Light,Honduras,Light Roast,$21.74
+Honduran Marcala,Balanced,Fruity and floral,Full,Guatemala,Light Roast,$16.06
+Honduran Marcala,Subtle,Nutty and chocolate,Full,Ethiopia,Dark Roast,$12.78
+Kenyan AA,Balanced,Caramel and vanilla,Light,Rwanda,Light Roast,$21.32
+Guatemalan Antigua,Subtle,Caramel and vanilla,Light,Ethiopia,Medium Roast,$21.22
+Kenyan AA,Subtle,Nutty and chocolate,Full,Costa Rica,Light Roast,$22.85
+Ethiopian Yirgacheffe,Balanced,Nutty and chocolate,Light,Sumatra,Medium Roast,$15.58
+Kenyan AA,Balanced,Caramel and vanilla,Light,Colombia,Light Roast,$17.15
+Jamaican Blue Mountain,Bright,Caramel and vanilla,Light,Sumatra,Dark Roast,$17.32
+Sumatran Mandheling,Balanced,Caramel and vanilla,Medium,Jamaica,Light Roast,$17.26
+Guatemalan Antigua,Bright,Nutty and chocolate,Full,Colombia,Dark Roast,$11.29
+Colombian Supremo,Bright,Nutty and chocolate,Full,Costa Rica,Light Roast,$21.71
+Jamaican Blue Mountain,Subtle,Fruity and floral,Light,Ethiopia,Dark Roast,$16.93
+Honduran Marcala,Bright,Caramel and vanilla,Light,Colombia,Light Roast,$17.33
+Rwandan Peaberry,Bright,Nutty and chocolate,Light,Brazil,Medium Roast,$19.73
+Jamaican Blue Mountain,Balanced,Nutty and chocolate,Light,Guatemala,Light Roast,$19.94
+Colombian Supremo,Subtle,Caramel and vanilla,Light,Jamaica,Dark Roast,$17.47
+Colombian Supremo,Subtle,Caramel and vanilla,Light,Rwanda,Medium Roast,$13.36
+Colombian Supremo,Subtle,Fruity and floral,Light,Honduras,Medium Roast,$21.47
+Brazil Santos,Bright,Fruity and floral,Full,Brazil,Dark Roast,$16.74
+Honduran Marcala,Balanced,Caramel and vanilla,Full,Jamaica,Dark Roast,$11.00
+Honduran Marcala,Bright,Nutty and chocolate,Medium,Costa Rica,Medium Roast,$13.93
+Costa Rican Tarrazu,Subtle,Caramel and vanilla,Light,Sumatra,Medium Roast,$15.44
+Kenyan AA,Balanced,Nutty and chocolate,Light,Brazil,Medium Roast,$14.66
+Guatemalan Antigua,Subtle,Caramel and vanilla,Light,Jamaica,Medium Roast,$13.60
+Rwandan Peaberry,Subtle,Fruity and floral,Full,Colombia,Medium Roast,$14.04
+Sumatran Mandheling,Balanced,Caramel and vanilla,Light,Rwanda,Light Roast,$20.80
+Colombian Supremo,Subtle,Caramel and vanilla,Light,Guatemala,Dark Roast,$17.16
+Rwandan Peaberry,Bright,Caramel and vanilla,Light,Ethiopia,Medium Roast,$19.39
+Honduran Marcala,Balanced,Fruity and floral,Light,Costa Rica,Light Roast,$22.29
+Ethiopian Yirgacheffe,Subtle,Fruity and floral,Light,Ethiopia,Medium Roast,$20.00
+Costa Rican Tarrazu,Subtle,Caramel and vanilla,Full,Ethiopia,Medium Roast,$12.91
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Light,Costa Rica,Light Roast,$22.69
+Sumatran Mandheling,Balanced,Caramel and vanilla,Light,Guatemala,Light Roast,$20.31
+Colombian Supremo,Subtle,Nutty and chocolate,Full,Colombia,Medium Roast,$17.37
+Guatemalan Antigua,Balanced,Nutty and chocolate,Light,Guatemala,Dark Roast,$11.65
+Sumatran Mandheling,Bright,Nutty and chocolate,Full,Costa Rica,Medium Roast,$18.38
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Light,Costa Rica,Medium Roast,$17.36
+Jamaican Blue Mountain,Balanced,Nutty and chocolate,Full,Honduras,Dark Roast,$19.59
+Kenyan AA,Subtle,Nutty and chocolate,Full,Guatemala,Medium Roast,$17.08
+Ethiopian Yirgacheffe,Bright,Fruity and floral,Medium,Ethiopia,Light Roast,$19.19
+Rwandan Peaberry,Subtle,Caramel and vanilla,Full,Brazil,Dark Roast,$12.15
+Kenyan AA,Bright,Caramel and vanilla,Full,Costa Rica,Medium Roast,$18.27
+Jamaican Blue Mountain,Bright,Fruity and floral,Full,Jamaica,Dark Roast,$11.51
+Sumatran Mandheling,Subtle,Fruity and floral,Light,Jamaica,Light Roast,$18.35
+Rwandan Peaberry,Balanced,Nutty and chocolate,Medium,Rwanda,Dark Roast,$10.40
+Honduran Marcala,Bright,Nutty and chocolate,Light,Rwanda,Light Roast,$17.44
+Jamaican Blue Mountain,Subtle,Nutty and chocolate,Medium,Rwanda,Light Roast,$20.03
+Kenyan AA,Subtle,Fruity and floral,Full,Kenya,Light Roast,$19.29
+Colombian Supremo,Bright,Fruity and floral,Full,Sumatra,Light Roast,$23.34
+Kenyan AA,Balanced,Fruity and floral,Medium,Brazil,Light Roast,$15.16
+Sumatran Mandheling,Subtle,Fruity and floral,Full,Jamaica,Medium Roast,$13.73
+Kenyan AA,Balanced,Fruity and floral,Full,Colombia,Dark Roast,$15.46
+Sumatran Mandheling,Balanced,Caramel and vanilla,Medium,Ethiopia,Light Roast,$22.10
+Sumatran Mandheling,Bright,Nutty and chocolate,Light,Kenya,Medium Roast,$17.44
+Costa Rican Tarrazu,Bright,Fruity and floral,Medium,Colombia,Light Roast,$21.80
+Sumatran Mandheling,Balanced,Nutty and chocolate,Medium,Kenya,Light Roast,$15.92
+Costa Rican Tarrazu,Subtle,Nutty and chocolate,Medium,Guatemala,Light Roast,$16.13
+Rwandan Peaberry,Subtle,Caramel and vanilla,Light,Brazil,Dark Roast,$16.67
+Honduran Marcala,Bright,Nutty and chocolate,Medium,Kenya,Light Roast,$17.35
+Rwandan Peaberry,Subtle,Nutty and chocolate,Full,Jamaica,Light Roast,$24.14
+Brazil Santos,Subtle,Caramel and vanilla,Full,Guatemala,Light Roast,$16.13
+Jamaican Blue Mountain,Bright,Caramel and vanilla,Full,Jamaica,Light Roast,$20.48
+Costa Rican Tarrazu,Balanced,Fruity and floral,Full,Kenya,Light Roast,$15.78
+Brazil Santos,Subtle,Nutty and chocolate,Medium,Brazil,Medium Roast,$21.48
+Honduran Marcala,Balanced,Fruity and floral,Full,Colombia,Medium Roast,$21.94
+Sumatran Mandheling,Balanced,Nutty and chocolate,Full,Brazil,Light Roast,$21.35
+Jamaican Blue Mountain,Bright,Caramel and vanilla,Light,Ethiopia,Dark Roast,$15.22
+Brazil Santos,Bright,Nutty and chocolate,Light,Costa Rica,Light Roast,$21.80
+Colombian Supremo,Bright,Nutty and chocolate,Light,Brazil,Medium Roast,$20.13
+Colombian Supremo,Bright,Nutty and chocolate,Light,Jamaica,Medium Roast,$19.04
+Rwandan Peaberry,Bright,Fruity and floral,Light,Costa Rica,Light Roast,$15.53
+Colombian Supremo,Bright,Fruity and floral,Full,Guatemala,Medium Roast,$19.55
+Guatemalan Antigua,Balanced,Fruity and floral,Light,Brazil,Medium Roast,$21.37
+Sumatran Mandheling,Balanced,Fruity and floral,Full,Kenya,Dark Roast,$16.60
+Honduran Marcala,Bright,Caramel and vanilla,Medium,Colombia,Medium Roast,$21.27
+Rwandan Peaberry,Balanced,Caramel and vanilla,Medium,Guatemala,Light Roast,$18.19
+Honduran Marcala,Balanced,Fruity and floral,Light,Guatemala,Medium Roast,$20.59
+Colombian Supremo,Bright,Fruity and floral,Full,Costa Rica,Dark Roast,$17.88
+Jamaican Blue Mountain,Bright,Nutty and chocolate,Light,Colombia,Dark Roast,$16.07
+Costa Rican Tarrazu,Balanced,Nutty and chocolate,Medium,Costa Rica,Medium Roast,$13.04
+Guatemalan Antigua,Subtle,Caramel and vanilla,Light,Honduras,Dark Roast,$12.24
+Brazil Santos,Balanced,Fruity and floral,Medium,Rwanda,Light Roast,$17.00
+Ethiopian Yirgacheffe,Subtle,Fruity and floral,Medium,Ethiopia,Light Roast,$22.03
+Rwandan Peaberry,Subtle,Nutty and chocolate,Light,Guatemala,Dark Roast,$16.30
+Jamaican Blue Mountain,Balanced,Nutty and chocolate,Medium,Ethiopia,Dark Roast,$13.36
+Brazil Santos,Bright,Caramel and vanilla,Light,Jamaica,Dark Roast,$14.68
+Honduran Marcala,Bright,Nutty and chocolate,Full,Sumatra,Dark Roast,$19.93
+Colombian Supremo,Subtle,Nutty and chocolate,Light,Rwanda,Light Roast,$18.70
+Rwandan Peaberry,Subtle,Caramel and vanilla,Full,Brazil,Dark Roast,$16.38
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Light,Rwanda,Medium Roast,$12.07
+Costa Rican Tarrazu,Subtle,Nutty and chocolate,Light,Rwanda,Dark Roast,$17.67
+Kenyan AA,Subtle,Nutty and chocolate,Light,Kenya,Medium Roast,$18.37
+Costa Rican Tarrazu,Balanced,Nutty and chocolate,Light,Honduras,Dark Roast,$10.81
+Sumatran Mandheling,Subtle,Nutty and chocolate,Light,Sumatra,Dark Roast,$18.30
+Kenyan AA,Bright,Caramel and vanilla,Light,Brazil,Light Roast,$15.99
+Jamaican Blue Mountain,Bright,Caramel and vanilla,Medium,Colombia,Medium Roast,$18.92
+Guatemalan Antigua,Bright,Nutty and chocolate,Light,Jamaica,Medium Roast,$18.73
+Ethiopian Yirgacheffe,Bright,Fruity and floral,Light,Brazil,Light Roast,$22.19
+Rwandan Peaberry,Balanced,Caramel and vanilla,Full,Ethiopia,Dark Roast,$11.39
+Brazil Santos,Subtle,Nutty and chocolate,Medium,Sumatra,Dark Roast,$15.34
+Sumatran Mandheling,Subtle,Fruity and floral,Light,Honduras,Dark Roast,$12.75
+Sumatran Mandheling,Bright,Nutty and chocolate,Full,Brazil,Light Roast,$23.29
+Sumatran Mandheling,Balanced,Fruity and floral,Medium,Sumatra,Light Roast,$20.74
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Full,Guatemala,Dark Roast,$11.77
+Guatemalan Antigua,Subtle,Nutty and chocolate,Light,Honduras,Dark Roast,$12.10
+Kenyan AA,Balanced,Caramel and vanilla,Medium,Brazil,Dark Roast,$14.30
+Kenyan AA,Bright,Fruity and floral,Medium,Colombia,Light Roast,$16.43
+Honduran Marcala,Balanced,Nutty and chocolate,Full,Rwanda,Medium Roast,$18.17
+Rwandan Peaberry,Subtle,Fruity and floral,Medium,Ethiopia,Light Roast,$24.29
+Sumatran Mandheling,Balanced,Caramel and vanilla,Medium,Jamaica,Light Roast,$21.47
+Rwandan Peaberry,Balanced,Nutty and chocolate,Medium,Jamaica,Dark Roast,$12.22
+Sumatran Mandheling,Subtle,Nutty and chocolate,Full,Jamaica,Medium Roast,$12.51
+Brazil Santos,Balanced,Caramel and vanilla,Light,Sumatra,Medium Roast,$19.50
+Jamaican Blue Mountain,Bright,Nutty and chocolate,Light,Colombia,Medium Roast,$12.92
+Costa Rican Tarrazu,Bright,Caramel and vanilla,Light,Sumatra,Dark Roast,$10.28
+Honduran Marcala,Bright,Caramel and vanilla,Light,Ethiopia,Light Roast,$24.42
+Brazil Santos,Balanced,Caramel and vanilla,Light,Ethiopia,Medium Roast,$21.60
+Honduran Marcala,Subtle,Fruity and floral,Medium,Colombia,Dark Roast,$13.62
+Sumatran Mandheling,Bright,Nutty and chocolate,Medium,Sumatra,Light Roast,$16.10
+Sumatran Mandheling,Subtle,Nutty and chocolate,Light,Jamaica,Dark Roast,$12.97
+Colombian Supremo,Balanced,Fruity and floral,Light,Colombia,Light Roast,$16.61
+Sumatran Mandheling,Bright,Caramel and vanilla,Light,Ethiopia,Medium Roast,$16.12
+Brazil Santos,Subtle,Fruity and floral,Light,Jamaica,Medium Roast,$20.07
+Colombian Supremo,Subtle,Fruity and floral,Light,Colombia,Dark Roast,$15.37
+Rwandan Peaberry,Subtle,Caramel and vanilla,Medium,Sumatra,Medium Roast,$15.69
+Colombian Supremo,Balanced,Caramel and vanilla,Light,Jamaica,Dark Roast,$11.81
+Honduran Marcala,Subtle,Fruity and floral,Full,Sumatra,Light Roast,$20.37
+Ethiopian Yirgacheffe,Bright,Caramel and vanilla,Light,Kenya,Dark Roast,$19.69
+Costa Rican Tarrazu,Bright,Caramel and vanilla,Medium,Honduras,Dark Roast,$15.23
+Jamaican Blue Mountain,Balanced,Caramel and vanilla,Medium,Jamaica,Light Roast,$16.98
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Light,Sumatra,Light Roast,$23.16
+Sumatran Mandheling,Subtle,Fruity and floral,Light,Jamaica,Medium Roast,$19.36
+Ethiopian Yirgacheffe,Bright,Fruity and floral,Light,Guatemala,Light Roast,$21.24
+Rwandan Peaberry,Subtle,Fruity and floral,Light,Brazil,Dark Roast,$17.59
+Costa Rican Tarrazu,Subtle,Fruity and floral,Medium,Rwanda,Medium Roast,$21.63
+Jamaican Blue Mountain,Bright,Nutty and chocolate,Medium,Kenya,Medium Roast,$19.85
+Sumatran Mandheling,Subtle,Nutty and chocolate,Medium,Kenya,Light Roast,$23.77
+Costa Rican Tarrazu,Subtle,Nutty and chocolate,Light,Kenya,Dark Roast,$17.45
+Jamaican Blue Mountain,Bright,Nutty and chocolate,Medium,Brazil,Light Roast,$17.61
+Jamaican Blue Mountain,Balanced,Fruity and floral,Light,Sumatra,Dark Roast,$13.40
+Kenyan AA,Balanced,Fruity and floral,Full,Brazil,Medium Roast,$18.36
+Kenyan AA,Subtle,Fruity and floral,Light,Jamaica,Dark Roast,$19.20
+Kenyan AA,Bright,Fruity and floral,Medium,Rwanda,Light Roast,$18.25
+Guatemalan Antigua,Bright,Nutty and chocolate,Medium,Rwanda,Medium Roast,$15.47
+Rwandan Peaberry,Subtle,Nutty and chocolate,Medium,Sumatra,Light Roast,$17.28
+Guatemalan Antigua,Subtle,Fruity and floral,Medium,Kenya,Dark Roast,$19.88
+Rwandan Peaberry,Balanced,Nutty and chocolate,Full,Jamaica,Light Roast,$21.26
+Brazil Santos,Balanced,Caramel and vanilla,Medium,Ethiopia,Dark Roast,$16.08
+Jamaican Blue Mountain,Balanced,Fruity and floral,Light,Costa Rica,Dark Roast,$14.77
+Sumatran Mandheling,Balanced,Caramel and vanilla,Full,Ethiopia,Medium Roast,$15.87
+Sumatran Mandheling,Bright,Nutty and chocolate,Light,Ethiopia,Light Roast,$19.54
+Ethiopian Yirgacheffe,Balanced,Fruity and floral,Full,Honduras,Light Roast,$19.30
+Sumatran Mandheling,Subtle,Caramel and vanilla,Medium,Jamaica,Medium Roast,$19.04
+Brazil Santos,Balanced,Caramel and vanilla,Medium,Rwanda,Medium Roast,$20.05
+Colombian Supremo,Bright,Caramel and vanilla,Medium,Colombia,Medium Roast,$14.41
+Kenyan AA,Subtle,Caramel and vanilla,Full,Jamaica,Light Roast,$16.42
+Kenyan AA,Subtle,Fruity and floral,Full,Honduras,Light Roast,$21.91
+Sumatran Mandheling,Subtle,Caramel and vanilla,Light,Ethiopia,Dark Roast,$14.76
+Ethiopian Yirgacheffe,Balanced,Caramel and vanilla,Medium,Ethiopia,Light Roast,$24.88
+Jamaican Blue Mountain,Balanced,Fruity and floral,Medium,Kenya,Dark Roast,$17.03
+Brazil Santos,Bright,Fruity and floral,Medium,Guatemala,Dark Roast,$12.46
+Kenyan AA,Balanced,Fruity and floral,Full,Costa Rica,Medium Roast,$20.99
+Ethiopian Yirgacheffe,Bright,Fruity and floral,Full,Ethiopia,Light Roast,$18.92
+Colombian Supremo,Subtle,Fruity and floral,Light,Sumatra,Medium Roast,$21.30
+Colombian Supremo,Subtle,Fruity and floral,Light,Ethiopia,Medium Roast,$20.84
+Rwandan Peaberry,Balanced,Caramel and vanilla,Full,Honduras,Medium Roast,$19.06
+Sumatran Mandheling,Bright,Nutty and chocolate,Full,Rwanda,Light Roast,$16.72
+Sumatran Mandheling,Bright,Caramel and vanilla,Medium,Costa Rica,Dark Roast,$15.21
+Rwandan Peaberry,Subtle,Nutty and chocolate,Full,Sumatra,Light Roast,$18.15
+Honduran Marcala,Subtle,Nutty and chocolate,Full,Guatemala,Dark Roast,$10.02
+Sumatran Mandheling,Subtle,Fruity and floral,Light,Jamaica,Dark Roast,$13.84
+Colombian Supremo,Bright,Fruity and floral,Full,Costa Rica,Light Roast,$22.09
+Kenyan AA,Balanced,Nutty and chocolate,Full,Costa Rica,Dark Roast,$13.35
+Ethiopian Yirgacheffe,Subtle,Caramel and vanilla,Light,Rwanda,Dark Roast,$15.36
+Colombian Supremo,Balanced,Nutty and chocolate,Full,Kenya,Dark Roast,$11.34
+Colombian Supremo,Subtle,Caramel and vanilla,Light,Jamaica,Dark Roast,$11.28
+Colombian Supremo,Balanced,Fruity and floral,Medium,Costa Rica,Medium Roast,$14.88
+Guatemalan Antigua,Bright,Fruity and floral,Medium,Rwanda,Medium Roast,$12.79
+Guatemalan Antigua,Balanced,Fruity and floral,Full,Brazil,Light Roast,$16.21
+Colombian Supremo,Bright,Caramel and vanilla,Light,Sumatra,Medium Roast,$13.00
+Rwandan Peaberry,Balanced,Nutty and chocolate,Light,Costa Rica,Light Roast,$15.07
+Brazil Santos,Bright,Caramel and vanilla,Full,Rwanda,Dark Roast,$14.28
+Costa Rican Tarrazu,Balanced,Fruity and floral,Full,Costa Rica,Dark Roast,$15.57
+Guatemalan Antigua,Subtle,Nutty and chocolate,Medium,Sumatra,Light Roast,$18.02
+Colombian Supremo,Balanced,Nutty and chocolate,Full,Guatemala,Dark Roast,$11.49
+Brazil Santos,Subtle,Nutty and chocolate,Light,Jamaica,Dark Roast,$14.92
+Honduran Marcala,Bright,Caramel and vanilla,Medium,Kenya,Dark Roast,$19.48
+Sumatran Mandheling,Balanced,Caramel and vanilla,Full,Kenya,Light Roast,$19.34
+Colombian Supremo,Subtle,Caramel and vanilla,Full,Colombia,Light Roast,$20.66
+Kenyan AA,Bright,Caramel and vanilla,Light,Rwanda,Dark Roast,$19.11
+Honduran Marcala,Bright,Nutty and chocolate,Light,Sumatra,Dark Roast,$14.58
+Honduran Marcala,Balanced,Fruity and floral,Medium,Brazil,Dark Roast,$11.32
+Guatemalan Antigua,Balanced,Nutty and chocolate,Full,Rwanda,Light Roast,$15.23
+Colombian Supremo,Bright,Nutty and chocolate,Full,Kenya,Dark Roast,$19.61
+Guatemalan Antigua,Bright,Nutty and chocolate,Full,Kenya,Dark Roast,$12.74
+Costa Rican Tarrazu,Bright,Fruity and floral,Full,Honduras,Medium Roast,$14.61
+Sumatran Mandheling,Balanced,Caramel and vanilla,Full,Jamaica,Light Roast,$18.37
+Guatemalan Antigua,Bright,Fruity and floral,Medium,Sumatra,Light Roast,$22.02
+Sumatran Mandheling,Balanced,Caramel and vanilla,Medium,Costa Rica,Light Roast,$16.94
+Brazil Santos,Bright,Nutty and chocolate,Medium,Rwanda,Medium Roast,$18.31
+Rwandan Peaberry,Bright,Nutty and chocolate,Light,Honduras,Light Roast,$22.00
+Guatemalan Antigua,Bright,Nutty and chocolate,Light,Costa Rica,Medium Roast,$20.73
+Brazil Santos,Bright,Fruity and floral,Medium,Ethiopia,Light Roast,$23.05
+Ethiopian Yirgacheffe,Subtle,Caramel and vanilla,Full,Rwanda,Light Roast,$19.33
+Jamaican Blue Mountain,Subtle,Caramel and vanilla,Medium,Kenya,Medium Roast,$18.82
+Brazil Santos,Balanced,Fruity and floral,Medium,Colombia,Dark Roast,$13.34
+Brazil Santos,Balanced,Nutty and chocolate,Full,Guatemala,Medium Roast,$12.57
+Sumatran Mandheling,Balanced,Nutty and chocolate,Medium,Brazil,Light Roast,$15.47
+Brazil Santos,Subtle,Nutty and chocolate,Full,Colombia,Light Roast,$18.93
+Sumatran Mandheling,Balanced,Nutty and chocolate,Medium,Jamaica,Dark Roast,$17.53
+Kenyan AA,Bright,Caramel and vanilla,Full,Kenya,Dark Roast,$16.12
+Colombian Supremo,Bright,Nutty and chocolate,Medium,Jamaica,Light Roast,$24.82
+Colombian Supremo,Subtle,Nutty and chocolate,Medium,Sumatra,Dark Roast,$10.18
+Colombian Supremo,Balanced,Nutty and chocolate,Light,Honduras,Light Roast,$16.96
+Kenyan AA,Balanced,Nutty and chocolate,Full,Costa Rica,Dark Roast,$16.30
+Kenyan AA,Balanced,Nutty and chocolate,Medium,Guatemala,Light Roast,$18.54
+Kenyan AA,Subtle,Fruity and floral,Medium,Colombia,Medium Roast,$17.64
+Rwandan Peaberry,Balanced,Fruity and floral,Full,Brazil,Dark Roast,$11.85
+Rwandan Peaberry,Balanced,Fruity and floral,Medium,Jamaica,Medium Roast,$16.07
+Brazil Santos,Bright,Fruity and floral,Light,Guatemala,Medium Roast,$14.18
+Jamaican Blue Mountain,Bright,Nutty and chocolate,Full,Guatemala,Medium Roast,$20.17
+Brazil Santos,Subtle,Nutty and chocolate,Medium,Costa Rica,Light Roast,$22.58
+Brazil Santos,Subtle,Caramel and vanilla,Medium,Kenya,Medium Roast,$16.30
+Kenyan AA,Bright,Nutty and chocolate,Light,Rwanda,Light Roast,$24.46
+Costa Rican Tarrazu,Bright,Fruity and floral,Medium,Guatemala,Light Roast,$19.63
+Brazil Santos,Subtle,Caramel and vanilla,Light,Jamaica,Medium Roast,$19.71
+Honduran Marcala,Bright,Nutty and chocolate,Medium,Guatemala,Light Roast,$24.49
+Colombian Supremo,Bright,Fruity and floral,Light,Colombia,Dark Roast,$17.72
+Costa Rican Tarrazu,Balanced,Caramel and vanilla,Full,Sumatra,Light Roast,$22.20
+Kenyan AA,Subtle,Fruity and floral,Light,Colombia,Light Roast,$18.46
+Guatemalan Antigua,Bright,Caramel and vanilla,Full,Honduras,Medium Roast,$12.06
+Brazil Santos,Subtle,Fruity and floral,Full,Jamaica,Medium Roast,$17.98
+Kenyan AA,Bright,Fruity and floral,Light,Colombia,Dark Roast,$15.26
+Costa Rican Tarrazu,Balanced,Fruity and floral,Full,Jamaica,Light Roast,$16.22
+Rwandan Peaberry,Bright,Caramel and vanilla,Full,Guatemala,Light Roast,$18.60
+Colombian Supremo,Balanced,Nutty and chocolate,Light,Rwanda,Light Roast,$23.91
+Rwandan Peaberry,Bright,Fruity and floral,Full,Jamaica,Dark Roast,$15.45
+Jamaican Blue Mountain,Subtle,Nutty and chocolate,Full,Guatemala,Dark Roast,$11.22
+Jamaican Blue Mountain,Bright,Nutty and chocolate,Full,Jamaica,Dark Roast,$16.62
+Kenyan AA,Bright,Fruity and floral,Light,Costa Rica,Light Roast,$23.54
+Rwandan Peaberry,Subtle,Nutty and chocolate,Light,Kenya,Dark Roast,$12.12
+Colombian Supremo,Balanced,Caramel and vanilla,Full,Colombia,Dark Roast,$13.03
+Sumatran Mandheling,Balanced,Caramel and vanilla,Medium,Kenya,Medium Roast,$19.84
+Jamaican Blue Mountain,Balanced,Caramel and vanilla,Full,Colombia,Dark Roast,$15.43
+Colombian Supremo,Balanced,Caramel and vanilla,Full,Guatemala,Medium Roast,$13.39
+Ethiopian Yirgacheffe,Bright,Caramel and vanilla,Medium,Colombia,Dark Roast,$18.25
+Kenyan AA,Subtle,Fruity and floral,Full,Rwanda,Dark Roast,$14.05
+Kenyan AA,Subtle,Fruity and floral,Light,Honduras,Light Roast,$16.98
+Ethiopian Yirgacheffe,Balanced,Caramel and vanilla,Light,Guatemala,Light Roast,$18.63
+Brazil Santos,Bright,Fruity and floral,Full,Jamaica,Dark Roast,$13.00
+Colombian Supremo,Bright,Nutty and chocolate,Light,Brazil,Dark Roast,$10.19
+Jamaican Blue Mountain,Balanced,Nutty and chocolate,Light,Colombia,Light Roast,$24.24
+Rwandan Peaberry,Subtle,Fruity and floral,Medium,Colombia,Medium Roast,$13.22
+Brazil Santos,Subtle,Caramel and vanilla,Light,Brazil,Dark Roast,$14.48
+Brazil Santos,Balanced,Nutty and chocolate,Light,Honduras,Medium Roast,$15.72
+Rwandan Peaberry,Bright,Nutty and chocolate,Medium,Ethiopia,Light Roast,$20.93
+Colombian Supremo,Bright,Fruity and floral,Medium,Guatemala,Medium Roast,$16.35
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Full,Jamaica,Dark Roast,$15.91
+Sumatran Mandheling,Balanced,Fruity and floral,Light,Brazil,Medium Roast,$14.51
+Sumatran Mandheling,Balanced,Caramel and vanilla,Light,Colombia,Dark Roast,$10.84
+Colombian Supremo,Bright,Nutty and chocolate,Full,Brazil,Light Roast,$22.35
+Guatemalan Antigua,Bright,Fruity and floral,Medium,Costa Rica,Light Roast,$19.01
+Sumatran Mandheling,Balanced,Nutty and chocolate,Full,Ethiopia,Light Roast,$22.24
+Jamaican Blue Mountain,Subtle,Caramel and vanilla,Light,Colombia,Dark Roast,$19.69
+Colombian Supremo,Subtle,Fruity and floral,Medium,Ethiopia,Dark Roast,$17.98
+Honduran Marcala,Subtle,Fruity and floral,Light,Rwanda,Light Roast,$18.21
+Brazil Santos,Bright,Fruity and floral,Medium,Kenya,Light Roast,$23.44
+Sumatran Mandheling,Balanced,Fruity and floral,Full,Jamaica,Dark Roast,$15.21
+Jamaican Blue Mountain,Bright,Fruity and floral,Light,Sumatra,Medium Roast,$14.82
+Jamaican Blue Mountain,Balanced,Caramel and vanilla,Medium,Honduras,Dark Roast,$13.23
+Honduran Marcala,Bright,Caramel and vanilla,Light,Colombia,Light Roast,$24.97
+Sumatran Mandheling,Bright,Fruity and floral,Light,Kenya,Dark Roast,$13.89
+Costa Rican Tarrazu,Bright,Caramel and vanilla,Full,Guatemala,Dark Roast,$15.83
+Ethiopian Yirgacheffe,Balanced,Caramel and vanilla,Full,Colombia,Light Roast,$23.06
+Guatemalan Antigua,Bright,Fruity and floral,Medium,Ethiopia,Light Roast,$21.44
+Ethiopian Yirgacheffe,Subtle,Nutty and chocolate,Medium,Kenya,Light Roast,$22.60
+Guatemalan Antigua,Balanced,Nutty and chocolate,Light,Sumatra,Light Roast,$21.83
+Guatemalan Antigua,Bright,Caramel and vanilla,Full,Costa Rica,Dark Roast,$14.54
+Jamaican Blue Mountain,Balanced,Nutty and chocolate,Light,Guatemala,Light Roast,$15.84
+Colombian Supremo,Subtle,Caramel and vanilla,Light,Kenya,Medium Roast,$21.66
+Ethiopian Yirgacheffe,Subtle,Fruity and floral,Full,Jamaica,Medium Roast,$19.48
+Ethiopian Yirgacheffe,Bright,Caramel and vanilla,Light,Sumatra,Dark Roast,$11.94
+Ethiopian Yirgacheffe,Balanced,Nutty and chocolate,Light,Brazil,Light Roast,$21.41
+Costa Rican Tarrazu,Subtle,Nutty and chocolate,Light,Guatemala,Light Roast,$22.63
+Rwandan Peaberry,Bright,Fruity and floral,Full,Kenya,Light Roast,$19.98
+Brazil Santos,Subtle,Caramel and vanilla,Medium,Costa Rica,Dark Roast,$13.08
+Kenyan AA,Balanced,Fruity and floral,Light,Rwanda,Medium Roast,$17.92
+Colombian Supremo,Bright,Fruity and floral,Full,Colombia,Dark Roast,$12.10
+Guatemalan Antigua,Subtle,Nutty and chocolate,Light,Rwanda,Medium Roast,$20.19
+Jamaican Blue Mountain,Bright,Caramel and vanilla,Light,Rwanda,Medium Roast,$20.02
+Rwandan Peaberry,Subtle,Nutty and chocolate,Full,Jamaica,Light Roast,$16.40
+Kenyan AA,Balanced,Caramel and vanilla,Full,Costa Rica,Medium Roast,$18.93
+Ethiopian Yirgacheffe,Subtle,Fruity and floral,Medium,Kenya,Dark Roast,$13.81
+Guatemalan Antigua,Subtle,Caramel and vanilla,Full,Rwanda,Dark Roast,$16.50
+Guatemalan Antigua,Subtle,Caramel and vanilla,Full,Colombia,Medium Roast,$17.56
+Ethiopian Yirgacheffe,Subtle,Fruity and floral,Full,Sumatra,Medium Roast,$19.10
+Jamaican Blue Mountain,Subtle,Caramel and vanilla,Full,Kenya,Light Roast,$18.07
+Brazil Santos,Subtle,Nutty and chocolate,Medium,Kenya,Dark Roast,$19.15
+Kenyan AA,Bright,Nutty and chocolate,Full,Jamaica,Light Roast,$19.11
+Sumatran Mandheling,Subtle,Fruity and floral,Medium,Brazil,Dark Roast,$12.70
+Guatemalan Antigua,Subtle,Caramel and vanilla,Light,Costa Rica,Medium Roast,$17.62
+Honduran Marcala,Bright,Caramel and vanilla,Light,Costa Rica,Medium Roast,$16.77
+Sumatran Mandheling,Subtle,Fruity and floral,Full,Honduras,Medium Roast,$16.12
+Rwandan Peaberry,Bright,Caramel and vanilla,Medium,Guatemala,Light Roast,$24.09
+Colombian Supremo,Bright,Nutty and chocolate,Full,Guatemala,Dark Roast,$10.76
+Brazil Santos,Bright,Caramel and vanilla,Light,Sumatra,Medium Roast,$16.39
+Ethiopian Yirgacheffe,Bright,Caramel and vanilla,Medium,Honduras,Light Roast,$20.90
+Honduran Marcala,Subtle,Fruity and floral,Full,Jamaica,Light Roast,$17.98
+Honduran Marcala,Balanced,Nutty and chocolate,Medium,Costa Rica,Medium Roast,$12.19
+Guatemalan Antigua,Subtle,Fruity and floral,Medium,Guatemala,Light Roast,$23.56
+Costa Rican Tarrazu,Balanced,Caramel and vanilla,Full,Colombia,Light Roast,$20.31
+Rwandan Peaberry,Bright,Fruity and floral,Medium,Costa Rica,Medium Roast,$14.22
+Sumatran Mandheling,Balanced,Nutty and chocolate,Full,Jamaica,Light Roast,$16.28
+Brazil Santos,Subtle,Caramel and vanilla,Medium,Jamaica,Medium Roast,$15.47
+Costa Rican Tarrazu,Balanced,Nutty and chocolate,Full,Costa Rica,Medium Roast,$15.08
+Costa Rican Tarrazu,Balanced,Caramel and vanilla,Light,Rwanda,Medium Roast,$14.12
+Rwandan Peaberry,Balanced,Caramel and vanilla,Light,Brazil,Light Roast,$17.74
+Jamaican Blue Mountain,Balanced,Caramel and vanilla,Medium,Colombia,Dark Roast,$16.55
+Honduran Marcala,Balanced,Nutty and chocolate,Medium,Kenya,Medium Roast,$20.51
+Kenyan AA,Subtle,Fruity and floral,Full,Ethiopia,Dark Roast,$12.26
+Jamaican Blue Mountain,Subtle,Fruity and floral,Light,Honduras,Medium Roast,$19.64
+Rwandan Peaberry,Bright,Fruity and floral,Medium,Sumatra,Light Roast,$23.08
+Sumatran Mandheling,Balanced,Caramel and vanilla,Medium,Sumatra,Light Roast,$17.78
+Colombian Supremo,Bright,Caramel and vanilla,Light,Colombia,Light Roast,$16.01
+Guatemalan Antigua,Balanced,Nutty and chocolate,Full,Ethiopia,Light Roast,$18.39
+Guatemalan Antigua,Bright,Nutty and chocolate,Medium,Honduras,Dark Roast,$12.40
+Colombian Supremo,Subtle,Caramel and vanilla,Light,Brazil,Medium Roast,$15.30
+Guatemalan Antigua,Subtle,Nutty and chocolate,Light,Ethiopia,Medium Roast,$18.94
+Jamaican Blue Mountain,Bright,Caramel and vanilla,Full,Colombia,Medium Roast,$15.10
+Guatemalan Antigua,Subtle,Nutty and chocolate,Light,Jamaica,Dark Roast,$11.30
+Colombian Supremo,Balanced,Caramel and vanilla,Medium,Brazil,Medium Roast,$21.96
+Guatemalan Antigua,Subtle,Nutty and chocolate,Light,Costa Rica,Dark Roast,$14.71
+Sumatran Mandheling,Subtle,Caramel and vanilla,Full,Ethiopia,Dark Roast,$11.54
+Rwandan Peaberry,Subtle,Fruity and floral,Light,Ethiopia,Dark Roast,$12.48
+Honduran Marcala,Subtle,Caramel and vanilla,Medium,Jamaica,Light Roast,$21.76
+Rwandan Peaberry,Balanced,Fruity and floral,Light,Guatemala,Medium Roast,$13.42
+Rwandan Peaberry,Balanced,Nutty and chocolate,Light,Jamaica,Medium Roast,$18.00
+Rwandan Peaberry,Bright,Nutty and chocolate,Light,Colombia,Dark Roast,$17.23
+Brazil Santos,Bright,Fruity and floral,Medium,Ethiopia,Light Roast,$17.62
+Honduran Marcala,Balanced,Caramel and vanilla,Full,Ethiopia,Medium Roast,$20.64
+Jamaican Blue Mountain,Balanced,Fruity and floral,Full,Kenya,Light Roast,$18.15
+Costa Rican Tarrazu,Subtle,Fruity and floral,Medium,Brazil,Light Roast,$23.97
+Guatemalan Antigua,Bright,Nutty and chocolate,Light,Rwanda,Medium Roast,$21.04
+Colombian Supremo,Subtle,Fruity and floral,Full,Jamaica,Light Roast,$23.19
+Ethiopian Yirgacheffe,Subtle,Fruity and floral,Medium,Sumatra,Medium Roast,$16.48
+Honduran Marcala,Subtle,Caramel and vanilla,Light,Sumatra,Light Roast,$15.37

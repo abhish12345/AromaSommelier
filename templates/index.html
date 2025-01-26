@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AromaSommelier Quiz</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #f7efe5, #d6ccc2);
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      .quiz-container {
+        background-color: #ffffff;
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        max-width: 400px;
+        width: 100%;
+      }
+      h1 {
+        color: #4a4a4a;
+        text-align: center;
+        margin-bottom: 1rem;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+      }
+      label {
+        font-size: 1rem;
+        color: #555;
+        margin-bottom: 10px;
+      }
+      .option-group {
+        display: flex;
+        align-items: center;
+        gap: 10px; /* Spacing between radio button and label */
+        margin-bottom: 10px;
+      }
+      .option-group input[type="radio"] {
+        margin: 0;
+        accent-color: #6d4c41; /* Custom color for the radio button */
+      }
+      button {
+        background-color: #6d4c41;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1rem;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 1rem;
+        align-self: center;
+      }
+      button:hover {
+        background-color: #5a3b32;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="quiz-container">
+      <h1>AromaSommelier™ Taste Quiz</h1>
+      <form action="/recommend" method="post">
+        <label>How do you like your coffee's acidity?</label>
+        <div class="option-group">
+          <input type="radio" name="acidity" value="Bright" required />
+          <span>Bright and vibrant</span>
+        </div>
+        <div class="option-group">
+          <input type="radio" name="acidity" value="Balanced" />
+          <span>Balanced</span>
+        </div>
+        <div class="option-group">
+          <input type="radio" name="acidity" value="Subtle" />
+          <span>Subtle and smooth</span>
+        </div>
+
+        <label>What flavor notes appeal to you most?</label>
+        <div class="option-group">
+          <input
+            type="radio"
+            name="flavor"
+            value="Fruity and floral"
+            required
+          />
+          <span>Fruity and floral</span>
+        </div>
+        <div class="option-group">
+          <input type="radio" name="flavor" value="Nutty and chocolate" />
+          <span>Nutty and chocolate</span>
+        </div>
+        <div class="option-group">
+          <input type="radio" name="flavor" value="Caramel and vanilla" />
+          <span>Caramel and vanilla</span>
+        </div>
+
+        <label>How do you prefer your coffee body?</label>
+        <div class="option-group">
+          <input type="radio" name="body" value="Light" required />
+          <span>Light and tea-like</span>
+        </div>
+        <div class="option-group">
+          <input type="radio" name="body" value="Medium" />
+          <span>Medium and smooth</span>
+        </div>
+        <div class="option-group">
+          <input type="radio" name="body" value="Full" />
+          <span>Full and rich</span>
+        </div>
+
+        <button type="submit">Get Recommendation</button>
+      </form>
+    </div>
+  </body>
+</html>
