@@ -1,8 +1,10 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
+from flask_cors import CORS
 import pandas as pd
 import random
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 # Load the dataset
 def load_dataset():
@@ -34,11 +36,12 @@ def recommend_coffee(preferences, dataset):
 
     return recommendation
 
-# Flask routes
+# Home route
 @app.route('/')
 def home():
     return render_template('index.html')
 
+# Form-based recommendation route
 @app.route('/recommend', methods=['POST'])
 def recommend():
     dataset = load_dataset()
@@ -59,12 +62,39 @@ def recommend():
     # Get recommendation
     recommendation = recommend_coffee(preferences, dataset)
 
-    # Render recommendation to the user
     return render_template('result.html', coffee_name=recommendation['Coffee_Name'], 
                            description=f"{recommendation['Flavor_Notes']} with {recommendation['Acidity_Level']} acidity",
                            price=recommendation['Price'],
                            roast_type=recommendation['Roast_Type'])
 
+# New JSON-based recommendation route
+@app.route('/getrecommendation', methods=['GET'])
+def get_recommendation_json():
+    dataset = load_dataset()
+    if dataset is None:
+        return jsonify({"error": "Dataset not found. Please upload the dataset."}), 500
+
+    # Get user preferences from query parameters
+    acidity = request.args.get("acidity", default="")
+    flavor = request.args.get("flavor", default="")
+    body = request.args.get("body", default="")
+
+    preferences = {
+        "Acidity_Level": acidity,
+        "Flavor_Notes": flavor,
+        "Body": body
+    }
+
+    # Get recommendation
+    recommendation = recommend_coffee(preferences, dataset)
+
+    # Return JSON response
+    return jsonify({
+        "coffee_name": recommendation['Coffee_Name'],
+        "description": f"{recommendation['Flavor_Notes']} with {recommendation['Acidity_Level']} acidity",
+        "price": recommendation['Price'],
+        "roast_type": recommendation['Roast_Type']
+    })
+
 if __name__ == '__main__':
     app.run(debug=True)
-
